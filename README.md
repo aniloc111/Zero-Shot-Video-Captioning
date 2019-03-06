@@ -1,2 +1,2 @@
 # Zero-Shot-Video-Captioning
-Code is planned to be released around Feburary 2019. 
+Under construction. code and data coming soon.
